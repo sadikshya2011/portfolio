@@ -9,5 +9,5 @@ Detailed Description
 ![running calculator](https://github.com/sadikshya2011/portfolio/blob/main/images/calculator.png?raw=true)
 
  * [Windows EXE]()
- * [MacOSX]()
+ * [MacOSX](https://github.com/sadikshya2011/portfolio/blob/main/src/macos-aarch64.zip)
  * [Source Code]()
