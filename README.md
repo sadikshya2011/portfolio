@@ -1,6 +1,6 @@
 # sadikshya's programming portfolio
 
-## Projects fo Term 1
+## Projects for Term 1
 
 ### Calculator (2025)
 
