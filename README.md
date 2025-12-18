@@ -30,6 +30,6 @@ The program uses event handling to detect mouse clicks and conditional logic to 
 
 ## Projects For Term 2
 
-## Garden PacMan
-## Ball Bounce
-## Level Management
+## Garden PacMan (2025)
+## Ball Bounce (2025)
+## Level Management (2025)
