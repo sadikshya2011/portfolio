@@ -90,7 +90,7 @@ This program displays multiple levels, each labeled as a “Level” on the scre
 
 The code focuses on managing timed transitions and updating on-screen text, demonstrating how to track time and cycle through different levels in a structured sequence.
 
-![running app]()
+![running app](https://github.com/sadikshya2011/portfolio/blob/main/images/level%20management.png)
 * [Source Code](https://github.com/sadikshya2011/portfolio/tree/main/src/LevelManagement)
 
 
