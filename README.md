@@ -22,3 +22,14 @@ The program uses event handling to detect mouse clicks and conditional logic to 
  * [Source Code]()
 
 ![Calculator UML](https://github.com/sadikshya2011/portfolio/blob/main/images/Calculator%20UML.jpg)
+
+## Graphic Grade (2025)
+## Making Cars (2025)
+## Shape Game (2025)
+## If Structure (2025)
+
+## Projects For Term 2
+
+## Garden PacMan
+## Ball Bounce
+## Level Management
