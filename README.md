@@ -39,6 +39,8 @@ This program simulates multiple cars moving across the screen from one location 
 
 The code focuses on visual movement and timing, showing how multiple objects can be animated simultaneously on the screen.
 
+![running app](https://github.com/sadikshya2011/portfolio/blob/main/images/making%20cars.png)
+
 ## Historic Computer Systems (2025)
 
 This app presents an interactive timeline that showcases the development of computers from 1880 to 1995. Users can explore key milestones in computing history, seeing how early mechanical machines evolved into modern electronic computers. Each point on the timeline highlights important inventions, technologies, and breakthroughs that shaped the way computers developed over time.
@@ -53,6 +55,8 @@ This program generates numerical values and assigns each one a corresponding let
 
 The code demonstrates basic logic and conditional statements, showing how numerical data can be processed and translated into meaningful letter grades.
 
+![running app](https://github.com/sadikshya2011/portfolio/blob/main/images/if%20structure.png)
+
 ## Projects For Term 2
 
 ## Garden PacMan (2025)
@@ -61,15 +65,21 @@ The code demonstrates basic logic and conditional statements, showing how numeri
 
 **Pitch:** Guide a hungry garden-Pac through a lush maze of flowers and vines, dodging critters while harvesting magical berries to keep the garden alive.
 
+![running app](https://github.com/sadikshya2011/portfolio/blob/main/images/Garden%20Pacman.png)
+
 ## Ball Bounce (2025)
 
 This program allows users to place multiple balls on the screen and animate their movement. Each ball travels across the screen, bouncing from one side to the other, with its own speed and motion behavior. When a ball reaches an edge, it reverses direction, creating a continuous bouncing effect.
 
 The code demonstrates object movement, collision with screen boundaries, and handling different speeds for multiple objects at the same time, resulting in a dynamic and interactive visual simulation.
 
+![running app](https://github.com/sadikshya2011/portfolio/blob/main/images/Ball%20Bounce.png)
+
 ## Level Management (2025)
 
 This program displays multiple levels, each labeled as a “Level” on the screen, along with a visible timer. The timer counts down while the current level is shown. When the timer reaches zero, the program automatically switches to the next level label.
 
 The code focuses on managing timed transitions and updating on-screen text, demonstrating how to track time and cycle through different levels in a structured sequence.
+
+![running app]()
 
