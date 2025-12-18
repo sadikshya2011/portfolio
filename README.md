@@ -1,9 +1,9 @@
 # sadikshya's programming portfolio
 ## Personal info:
 
-Title: 9th Grade Programming Student
-Name: Sadikshya Kuikel 
-Email: sadus4300@gmail.com
+* Title: 9th Grade Programming Student
+* Name: Sadikshya Kuikel 
+* Email: sadus4300@gmail.com
 
 ## Projects for Term 1
 
