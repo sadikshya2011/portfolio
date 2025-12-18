@@ -24,6 +24,15 @@ The program uses event handling to detect mouse clicks and conditional logic to 
 ![Calculator UML](https://github.com/sadikshya2011/portfolio/blob/main/images/Calculator%20UML.jpg)
 
 ## Graphic Grade (2025)
+
+This app turns grading into a visual, easy-to-understand timeline. Instead of seeing grades as isolated numbers, you view them placed along a timeline that represents progress over time. Each point on the timeline shows the grade assigned at that moment, making it simple to see how performance evolves, improves, or declines.
+
+Grades are clearly labeled and positioned in order, so you can instantly understand what grade was given, when it was given, and how it fits into the overall progression. Whether you’re reviewing past results or tracking ongoing performance, the timeline format provides a clear, intuitive overview of how grades are assigned.
+
+Perfect for students, teachers, or anyone who wants a more visual and transparent way to understand grading.
+
+![running app] 
+()
 ## Making Cars (2025)
 ## Shape Game (2025)
 ## If Structure (2025)
