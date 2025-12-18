@@ -45,6 +45,8 @@ This app presents an interactive timeline that showcases the development of comp
 
 By scrolling through the timeline, users gain a clear, chronological view of major advancements, making it easy to understand how computer hardware and concepts progressed across more than a century. The app offers an engaging and visual way to learn about the history of computers and the innovations that led to today’s technology.
 
+![running app](https://github.com/sadikshya2011/portfolio/blob/main/images/Computer%20Systems.png)
+
 ## If Structure (2025
 
 This program generates numerical values and assigns each one a corresponding letter grade based on predefined grading rules. As each number is produced, the code evaluates it against grade thresholds and determines whether it falls into categories such as A, B, C, D, or F.
