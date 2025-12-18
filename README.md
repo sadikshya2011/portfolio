@@ -31,8 +31,7 @@ Grades are clearly labeled and positioned in order, so you can instantly underst
 
 Perfect for students, teachers, or anyone who wants a more visual and transparent way to understand grading.
 
-![running app] 
-()
+![running app](https://github.com/sadikshya2011/portfolio/blob/main/images/Grade.png)
 ## Making Cars (2025)
 ## Shape Game (2025)
 ## If Structure (2025)
