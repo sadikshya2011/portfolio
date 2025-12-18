@@ -67,8 +67,6 @@ The code demonstrates object movement, collision with screen boundaries, and han
 
 ## Level Management (2025)
 
-Got it — here’s a revised description that avoids calling it a game:
-
 This program displays multiple levels, each labeled as a “Level” on the screen, along with a visible timer. The timer counts down while the current level is shown. When the timer reaches zero, the program automatically switches to the next level label.
 
 The code focuses on managing timed transitions and updating on-screen text, demonstrating how to track time and cycle through different levels in a structured sequence.
