@@ -34,11 +34,44 @@ Perfect for students, teachers, or anyone who wants a more visual and transparen
 ![running app](https://github.com/sadikshya2011/portfolio/blob/main/images/Grade.png)
 * [Source Code](https://github.com/sadikshya2011/portfolio/blob/main/src/graphic_grade/graphic_grade.pde)
 ## Making Cars (2025)
+
+This program simulates multiple cars moving across the screen from one location to another. Each car travels independently, following a set path or direction, creating a simple animation of traffic-like movement. The cars continuously update their positions, giving the impression of motion as they progress toward their destinations.
+
+The code focuses on visual movement and timing, showing how multiple objects can be animated simultaneously on the screen.
+
 ## Historic Computer Systems (2025)
-## If Structure (2025)
+
+This app presents an interactive timeline that showcases the development of computers from 1880 to 1995. Users can explore key milestones in computing history, seeing how early mechanical machines evolved into modern electronic computers. Each point on the timeline highlights important inventions, technologies, and breakthroughs that shaped the way computers developed over time.
+
+By scrolling through the timeline, users gain a clear, chronological view of major advancements, making it easy to understand how computer hardware and concepts progressed across more than a century. The app offers an engaging and visual way to learn about the history of computers and the innovations that led to today’s technology.
+
+## If Structure (2025
+
+This program generates numerical values and assigns each one a corresponding letter grade based on predefined grading rules. As each number is produced, the code evaluates it against grade thresholds and determines whether it falls into categories such as A, B, C, D, or F.
+
+The code demonstrates basic logic and conditional statements, showing how numerical data can be processed and translated into meaningful letter grades.
 
 ## Projects For Term 2
 
 ## Garden PacMan (2025)
+
+**Classification:** This game is a nature-themed maze-chase adventure inspired by classic Pac-Man mechanics. Players navigate a vibrant garden, collecting berries and avoiding roaming creatures to survive and score points.
+
+**Pitch:** Guide a hungry garden-Pac through a lush maze of flowers and vines, dodging critters while harvesting magical berries to keep the garden alive.
+
 ## Ball Bounce (2025)
+
+This program allows users to place multiple balls on the screen and animate their movement. Each ball travels across the screen, bouncing from one side to the other, with its own speed and motion behavior. When a ball reaches an edge, it reverses direction, creating a continuous bouncing effect.
+
+The code demonstrates object movement, collision with screen boundaries, and handling different speeds for multiple objects at the same time, resulting in a dynamic and interactive visual simulation.
+
 ## Level Management (2025)
+
+Got it — here’s a revised description that avoids calling it a game:
+
+**Code Description**
+
+This program displays multiple levels, each labeled as a “Level” on the screen, along with a visible timer. The timer counts down while the current level is shown. When the timer reaches zero, the program automatically switches to the next level label.
+
+The code focuses on managing timed transitions and updating on-screen text, demonstrating how to track time and cycle through different levels in a structured sequence.
+
